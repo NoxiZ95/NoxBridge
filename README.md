@@ -1,8 +1,5 @@
 ![Alternativtext](https://r2.fivemanage.com/2EdAsqLv6zbDWFgymrgpd/noxbridge.png)
 # NoxBridge
-*A Windows tool for SSH console access and file transfers via SFTP.*
-
-# NoxBridge
 
 **NoxBridge** is a lightweight and user-friendly SSH client that provides seamless access to both the terminal and file system of a remote server — all in one place.
 
