@@ -1,0 +1,13 @@
+<!-- Resources/Strings.de.xaml -->
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Jede Zeichenkette exakt EINMAL definieren -->
+    <sys:String x:Key="Menu_Language">Sprache</sys:String>
+    <sys:String x:Key="Language_German">Deutsch</sys:String>
+    <sys:String x:Key="Language_English">Englisch</sys:String>
+    <sys:String x:Key="Description">Stelle eine simple Verbindung über SSH her und nutze die Shell und Filetransfers in einem Fenster!</sys:String>
+    <sys:String x:Key="SavedConnections">Gespeicherte Verbindungen anzeigen</sys:String>
+    <sys:String x:Key="NewConnection">Erstelle eine neue Verbindung</sys:String>
+    <sys:String x:Key="SavedConnectionsWindowTitle">Gespeicherte Verbindungen</sys:String>
+</ResourceDictionary>
